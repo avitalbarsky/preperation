@@ -1,0 +1,7 @@
+* python
+* pycharm
+* git
+* linux commands
+* jenkins
+* hive
+
