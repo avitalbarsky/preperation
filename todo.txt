@@ -1,4 +1,4 @@
-* python
+* python +++foo
 * pycharm
 * git
 * linux commands
